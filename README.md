@@ -4,8 +4,7 @@ This code is an implementation in C++11 of Game of Life.
 
 ## Usage
 To compile and run (if you're on a GNU/Linux system):
-```
-#!bash
+```bash
 $ mkdir build
 $ cd build
 $ cmake ..
@@ -13,8 +12,7 @@ $ make
 $ ./game_of_life
 ```
 In one line:
-```
-#!bash
+```bash
 $ mkdir build && cd build && cmake .. && make && ./game_of_life
 ```
 or use `cmake-gui`.
@@ -43,6 +41,8 @@ use cmake-gui and Visual Studio 2012
 | Left Button     | Erase or Paint (depends on where click)     |
 
 ## Screenshots
+
+![Alt text](example.gif?raw=true "Game of Life")
 
 
 ##License
