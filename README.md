@@ -18,7 +18,9 @@ $ mkdir build && cd build && cmake .. && make && ./game_of_life
 or use `cmake-gui`.
 
 To compile and run (if you're on a Windows system):
-use cmake-gui and Visual Studio 2012
+
+1. use cmake-gui and Visual Studio 2013
+2. run the compiled binrary version under bin/windows folder
 
 ##Controls
 
