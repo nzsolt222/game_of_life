@@ -1,6 +1,14 @@
-##Summary
+##Game of Life
 
 This code is an implementation in C++11 of Game of Life.
+
+## Contents
+
+- [Usage](#usage)
+- [Controls](#controls)
+- [Screenshots](#screenshots)
+- [License](#license)
+
 
 ## Usage
 To compile and run (if you're on a GNU/Linux system):
