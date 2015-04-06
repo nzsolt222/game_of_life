@@ -8,6 +8,7 @@ This code is an implementation in C++11 of Game of Life.
 - [Controls](#controls)
 - [Screenshots](#screenshots)
 - [License](#license)
+- [Credits](#credits)
 
 
 ## Usage
@@ -58,3 +59,8 @@ To compile and run (if you're on a Windows system):
 ##License
 
 This software is released under the MIT License, see license.txt
+
+## Credits
+Feel free to contact me with any questions!
+
+You can reach me at <nzsolt222@gmail.com>.
